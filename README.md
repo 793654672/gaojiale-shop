@@ -1,7 +1,7 @@
-# x-shop
-vue全家桶+nodejs+mongodb商城
+# shop
 
-继续完善功能：
+
+可完善的功能：
 ```
 注册功能 y
 商品详情页 y
@@ -14,11 +14,11 @@ vue全家桶+nodejs+mongodb商城
 ```
 
 # someet-shop
-vue2.0商城项目
+vue项目
 
-开发步骤
+步骤
 
-第一天上午
+
 - 在github上面新建git项目
 - 克隆到本地
 
